@@ -51,3 +51,8 @@ If you have a WordPress problem that's been sitting on the backlog too long: [th
 - GitHub: [github.com/thisismyurl](https://github.com/thisismyurl)
 - YouTube: [youtube.com/@thisismyurl](https://www.youtube.com/@thisismyurl)
 - X: [@thisismyurl](https://x.com/thisismyurl)
+
+
+---
+*This project follows the [10 Core Pillars](PILLARS.md). Support quality work [here](https://github.com/sponsors/thisismyurl).*
+
