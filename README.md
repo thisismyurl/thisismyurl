@@ -9,8 +9,9 @@ I build and maintain WordPress infrastructure for media organisations, education
 ## What I'm working on
 
 - **[Christopher Ross Shadow](https://github.com/thisismyurl/thisismyurl-shadow)** — a local-first WordPress diagnostics and remediation plugin. 230+ checks across performance, security, SEO, and accessibility. Currently in public beta.
+- **[Colophon FSE theme collection](https://github.com/thisismyurl/colophon)** — a 52-theme collection of WordPress FSE themes for publishers, editorial organisations, and media. WCAG 2.2 AA, zero JavaScript, self-hosted OFL fonts. [Quillwork](https://github.com/thisismyurl/quillwork), [Kern](https://github.com/thisismyurl/kern), [Masthead](https://github.com/thisismyurl/masthead), and more releasing through 2026–2027.
 - **[thisismyurl.com](https://thisismyurl.com)** — the site behind the work. Plugins, technical writing, training resources, and case studies.
-- **A focused plugin suite** — see the pinned repositories below. Security, performance, and media-library tools for the kinds of WordPress installs where reliability is non-negotiable.
+- **A focused plugin suite** — security, performance, and media-library tools for the kinds of WordPress installs where reliability is non-negotiable.
 
 ---
 
